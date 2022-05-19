@@ -36,7 +36,7 @@ const CommentForm = ({
             Cancel
           </button>
         )}
-        {body.trim() && (
+        {body.trim() && initialText !== body && (
           <button
             type="submit"
             className="py-2 px-4 bg-teal-700 rounded-full font-semibold text-white text-xs outline-none hover:opacity-80">
