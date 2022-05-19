@@ -35,16 +35,21 @@ const Comment = ({
           <img
             src={`data:image/svg+xml;base64,${avatar}`}
             alt="profile pic"
-            className="w-12 aspect-square"
+            className="w-10 sm:w-12 aspect-square"
           />
         ) : (
-          <div className="w-12 aspect-square bg-slate-500 animate-pulse rounded-full"></div>
+          <div className="w-10 sm:w-12 aspect-square bg-slate-500 animate-pulse rounded-full"></div>
         )}
-        <h1 className="font-semibold">{comment.username}</h1>
+        <h1 className="font-semibold text-sm sm:text-base">
+          {comment.username}
+        </h1>
       </div>
-      <div className="border-l ml-6 pl-10">
+      <div className="border-l ml-5 pl-9 sm:ml-6 sm:pl-10">
         <div className="space-y-4">
-          <p className="whitespace-pre-line"> {comment.body}</p>
+          <p className="whitespace-pre-line text-sm sm:text-base">
+            {" "}
+            {comment.body}
+          </p>
           <span className="text-xs text-gray-500">
             {" "}
             {format(comment.createdAt)}
