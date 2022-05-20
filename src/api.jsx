@@ -73,7 +73,7 @@ export const createComment = async (text, parentId = null) => {
     body: text,
     parentId,
     userId: 1,
-    username: "manikangkandasdas",
+    username: "manikangkandas",
     createdAt: new Date().toISOString(),
   };
 };
