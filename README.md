@@ -16,6 +16,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#built-with">Screenshots</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -36,25 +37,39 @@
 
 ## 📢 About The Project
 
-[![Thread Comments Screen Shot][product-screenshot]](/readme_assets/1.png)
-
-Thread Comments is a site of clear cut demonstarion how so called thread nested comments work using latest tech stack.
+Thread Comments is a site of clear cut demonstration of how the so called Thread Nested Recursive Comments functionality works by using the latest technology stack.
 
 Features -
 
 - Reply comment upto second level
 - Delete comment.
-- Edit comment. 
+- Edit comment.
 
 <p align="right"><a href="#top">back to top</a></p>
 
-## 🏗️ Built With
+## 💉 Screenshots
 
-<!-- - [Next.js](https://nextjs.org/) -->
+![1](readme_assets/1.png)
+![2](readme_assets/2.png)
+![3](readme_assets/3.png)
+![4](readme_assets/4.png)
+![5](readme_assets/5.png)
+![6](readme_assets/6.png)
+![7](readme_assets/7.png)
+![8](readme_assets/8.png)
+![9](readme_assets/9.png)
+![10](readme_assets/10.png)
+![11](readme_assets/11.png)
+![12](readme_assets/12.png)
+![13](readme_assets/13.png)
+![14](readme_assets/14.png)
+![15](readme_assets/15.png)
+![16](readme_assets/16.png)
+
+## 🏗️ Built With
 
 - [Vite](https://vitejs.dev/)
 - [React.js](https://reactjs.org/)
-- [Socket.IO](https://socket.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 <p align="right"><a href="#top">back to top</a></p>
@@ -75,9 +90,9 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
-  
+
   or
-  
+
 - yarn
 
   ```sh
@@ -91,22 +106,25 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/manikangkandas/thread-comments.git
    ```
 2. Install packages using NPM or YARN
+
    ```sh
    npm install
    ```
-   
+
    or
-   
+
    ```sh
    yarn add
    ```
+
 3. Run using NPM or YARN
+
    ```sh
    npm run dev
    ```
-   
+
    or
-   
+
    ```sh
    yarn dev
    ```
