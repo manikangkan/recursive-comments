@@ -49,22 +49,10 @@ Features -
 
 ## 💉 Screenshots
 
+![demonstration](readme_assets/demonstration.mp4)
 ![1](readme_assets/1.png)
 ![2](readme_assets/2.png)
 ![3](readme_assets/3.png)
-![4](readme_assets/4.png)
-![5](readme_assets/5.png)
-![6](readme_assets/6.png)
-![7](readme_assets/7.png)
-![8](readme_assets/8.png)
-![9](readme_assets/9.png)
-![10](readme_assets/10.png)
-![11](readme_assets/11.png)
-![12](readme_assets/12.png)
-![13](readme_assets/13.png)
-![14](readme_assets/14.png)
-![15](readme_assets/15.png)
-![16](readme_assets/16.png)
 
 ## 🏗️ Built With
 
