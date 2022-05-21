@@ -5,7 +5,7 @@
   <summary>Table of Contents</summary>
   <ul>
     <li>
-      <a href="https://github.com/manikangkandas/thread-comments">View Demo</a>
+      <a href="https://manikangkandas.github.io/thread-comments/">View Demo</a>
     </li>
     <li>
       <a href="https://github.com/manikangkandas/thread-comments/issues">Report Bug</a>
