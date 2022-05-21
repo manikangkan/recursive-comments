@@ -5,13 +5,13 @@
   <summary>Table of Contents</summary>
   <ul>
     <li>
-      <a href="https://manikangkandas.github.io/thread-comments/">View Demo</a>
+      <a href="https://manikangkandas.github.io/recursive-comments/">View Demo</a>
     </li>
     <li>
-      <a href="https://github.com/manikangkandas/thread-comments/issues">Report Bug</a>
+      <a href="https://github.com/manikangkandas/recursive-comments/issues">Report Bug</a>
     </li>
     <li>
-      <a href="https://github.com/manikangkandas/thread-comments/issues">Request Feature</a>
+      <a href="https://github.com/manikangkandas/recursive-comments/issues">Request Feature</a>
     </li>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -37,7 +37,7 @@
 
 ## 📢 About The Project
 
-Thread Comments is a site of clear cut demonstration of how the so called Thread Nested Recursive Comments functionality works by using the latest technology stack.
+recursive Comments is a site of clear cut demonstration of how the so called recursive Nested Recursive Comments functionality works by using the latest technology stack.
 
 Features -
 
@@ -48,7 +48,6 @@ Features -
 <p align="right"><a href="#top">back to top</a></p>
 
 ## 💉 Screenshots
-
 
 https://user-images.githubusercontent.com/75943412/169608743-4dcdf119-7dd5-42bc-9dc5-4d8c38a6521e.mp4
 
@@ -93,7 +92,7 @@ Prerequisites are listed below, install in order to run the project successfully
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/manikangkandas/thread-comments.git
+   git clone https://github.com/manikangkandas/recursive-comments.git
    ```
 2. Install packages using NPM or YARN
 
@@ -150,6 +149,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Author Info - [@manikankandas](https://linkedin.com/in/manikangkandas) - manikangkan.das@outlook.com
 <br />
-Project Link - [https://github.com/manikangkandas/thread-comments](https://github.com/manikangkandas/thread-comments)
+Project Link - [https://github.com/manikangkandas/recursive-comments](https://github.com/manikangkandas/recursive-comments)
 
 <p align="right"><a href="#top">back to top</a></p>
