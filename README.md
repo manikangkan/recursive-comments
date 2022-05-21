@@ -68,19 +68,19 @@ https://user-images.githubusercontent.com/75943412/169608743-4dcdf119-7dd5-42bc-
 
 ## 🎊 Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+After successful installation of the prerequisites, you can go ahead and test the project. Since the project does not contain a backend so far, the default username will be presented to you as manikangkandas.
 
 ### ⚙️ Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
+Prerequisites are listed below, install in order to run the project successfully in you local machine.
+- node
+- git
+- browser
 - npm
 
   ```sh
   npm install npm@latest -g
   ```
-
   or
 
 - yarn
@@ -100,7 +100,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
    or
 
    ```sh
@@ -112,7 +111,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm run dev
    ```
-
    or
 
    ```sh
